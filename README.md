@@ -1,3 +1,4 @@
+_config.yml
 Aspiring Data Analyst
 Technical Skills: Python Programming,Console Programming,Geographic Information Systems(ArcGIS/QGIS)
 
